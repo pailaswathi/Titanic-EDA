@@ -16,3 +16,4 @@ YData Profiling and
 Google Colab,
 Conclusion:
 This project demonstrates a complete EDA workflow and builds a strong foundation for applying machine learning models on real-world datasets.
+Note: The YData Profiling HTML report is large and must be downloaded to view.
